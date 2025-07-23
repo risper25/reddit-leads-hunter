@@ -15,5 +15,5 @@ An AI-powered n8n workflow that automatically discovers high-quality business le
 7. **Analyzes high-potential posts** for service-fit, urgency, and estimated value.
 8. **Saves the most promising leads** to a Google Sheet.
 9. **Sends Slack alerts** to notify your sales team in real time.
-     <img src="https://github.com/risper25/reddit-leads-hunter/blob/e55da054ec279d962a8b0a3d8b49a2889026362a/Screen%20Shot%202025-07-23%20at%2022.31.07.png/>
+     <img src="https://github.com/risper25/reddit-leads-hunter/blob/e55da054ec279d962a8b0a3d8b49a2889026362a/Screen%20Shot%202025-07-23%20at%2022.31.07.png"/>
 
